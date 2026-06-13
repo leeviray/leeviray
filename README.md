@@ -4,6 +4,8 @@ Leevi Qushai Ray Iftikhar
 - Surabaya State University
 - informatics engineering
 
+yeah i know this is not great but i'm still learning 😊
+
 *this profile is still on project 
 <!--
 **leeviray/leeviray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
