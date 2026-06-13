@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+*this profile is still on project 
 <!--
 **leeviray/leeviray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
